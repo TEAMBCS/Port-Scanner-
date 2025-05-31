@@ -16,24 +16,6 @@ A high-speed, advanced port scanning tool built with Python, developed by **Parv
 
 ---
 
-## 🧪 Example Output
-
-```bash
-🌐 Enter target website/IP: ➤ scanme.nmap.org
-🔢 Enter port range (e.g., 1-1000): ➤ 1-100
-
-🔍 Scanning scanme.nmap.org (45.33.32.156) from port 1 to 100...
-
-[✔] Port 22 is OPEN
-[✔] Port 80 is OPEN
-[✘] Port 23 is CLOSED
-...
-
-✔ Open Ports Found: [22, 80]
-
-
----
-
 🚀 Usage
 
 🔧 Requirements
@@ -86,5 +68,25 @@ Feel free to fork this repository and contribute new features, improvements, or 
 
 
 ---
+
+
+## 🧪 Example Output
+
+```bash
+🌐 Enter target website/IP: ➤ scanme.nmap.org
+🔢 Enter port range (e.g., 1-1000): ➤ 1-100
+
+🔍 Scanning scanme.nmap.org (45.33.32.156) from port 1 to 100...
+
+[✔] Port 22 is OPEN
+[✔] Port 80 is OPEN
+[✘] Port 23 is CLOSED
+...
+
+✔ Open Ports Found: [22, 80]
+
+
+---
+
 
 ⭐ Give this repo a star if you like it!
